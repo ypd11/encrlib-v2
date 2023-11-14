@@ -1,0 +1,12 @@
+C:\Users\Y&M\source\repos\EncrLib2\EncrLib2\bin\Release\EncrLib2.dll
+C:\Users\Y&M\source\repos\EncrLib2\EncrLib2\bin\Release\EncrLib2.pdb
+C:\Users\Y&M\source\repos\EncrLib2\EncrLib2\obj\Release\EncrLib2.csprojAssemblyReference.cache
+C:\Users\Y&M\source\repos\EncrLib2\EncrLib2\obj\Release\EncrLib2.csproj.CoreCompileInputs.cache
+C:\Users\Y&M\source\repos\EncrLib2\EncrLib2\obj\Release\EncrLib2.dll
+C:\Users\Y&M\source\repos\EncrLib2\EncrLib2\obj\Release\EncrLib2.pdb
+C:\Users\yaroy\OneDrive\Documentos\Stuff\CODE\My projects\C#\repos\EncrLib2\EncrLib2\bin\Release\EncrLib2.dll
+C:\Users\yaroy\OneDrive\Documentos\Stuff\CODE\My projects\C#\repos\EncrLib2\EncrLib2\bin\Release\EncrLib2.pdb
+C:\Users\yaroy\OneDrive\Documentos\Stuff\CODE\My projects\C#\repos\EncrLib2\EncrLib2\obj\Release\EncrLib2.csproj.AssemblyReference.cache
+C:\Users\yaroy\OneDrive\Documentos\Stuff\CODE\My projects\C#\repos\EncrLib2\EncrLib2\obj\Release\EncrLib2.csproj.CoreCompileInputs.cache
+C:\Users\yaroy\OneDrive\Documentos\Stuff\CODE\My projects\C#\repos\EncrLib2\EncrLib2\obj\Release\EncrLib2.dll
+C:\Users\yaroy\OneDrive\Documentos\Stuff\CODE\My projects\C#\repos\EncrLib2\EncrLib2\obj\Release\EncrLib2.pdb
